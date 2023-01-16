@@ -4,6 +4,7 @@ public class King extends Character {
 	/**
 	 * This is a constructor for king
 	 * @param name
+	 * 
 	 */
 	public King(String name) {
 		super (name);

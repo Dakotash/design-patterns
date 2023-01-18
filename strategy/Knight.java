@@ -2,7 +2,7 @@ package strategy;
 public class Knight extends Character {
 	
 	/**
-	 * This is a constructor for knight
+	 * This is a constructor for the knight
 	 * @param name
 	 */
 	public Knight(String name) {

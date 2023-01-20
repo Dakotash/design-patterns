@@ -3,7 +3,7 @@
 
 	/**
 	 * This is the driver class that to display the output
-	 * @author Hawkins
+	 * @author Cody Hawkins/ Written by Portia Plante
 	 *
 	 */
 	public class TownDriver {

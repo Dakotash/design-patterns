@@ -1,5 +1,9 @@
 package observer;
 
+/**
+ * This is the class for knight that implements form the Observer interface
+ * @author Cody Hawkins
+ */
 public class Knight implements Observer{
 	
 	/**

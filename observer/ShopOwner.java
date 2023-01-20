@@ -1,5 +1,8 @@
 package observer;
-
+/**
+ * This is the class for Shop Owner that implements form the Observer interface
+ * @author Cody Hawkins
+ */
 public class ShopOwner implements Observer{
 	
 	/**

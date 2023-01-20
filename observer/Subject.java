@@ -1,5 +1,8 @@
 package observer;
-
+/**
+ * This is the interface for the subject containing constructors to register, remove, and notify the observer
+ * @arthur Cody Hawkins 
+ */
 public interface Subject {
 	
 	/**

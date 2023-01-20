@@ -1,5 +1,8 @@
 package observer;
-
+/**
+ * This is the class for Teacher that implements form the Observer interface
+ * @author Cody Hawkins
+ */
 public class Teacher implements Observer{
 	
 	/**

@@ -1,5 +1,8 @@
 package observer;
-
+/**
+ * This class contains the ArrayList "observers" and implements form the Subject interface  
+ * @arthur Cody Hawkins
+ */
 import java.util.ArrayList;
 
 public class Watchman implements Subject {
